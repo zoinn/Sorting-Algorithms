@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-A C# based project comparing different sorting algorithms
+A C++ based project comparing different sorting algorithms
 
 # Features
 
@@ -12,11 +12,11 @@ A C# based project comparing different sorting algorithms
 
 # What I Learned and Improved on
 
-- Learnt C#
+- Learnt C++
 - Learnt the quick sort algorithm
-- Switch Case in C#
-- C# with OOP
-- Working with files in C#
+- Switch Case in C++
+- C++ with OOP
+- Working with files in C++
 - Clear understandable code
 - DRY Principle
 - Abstraction in OOP to reduce complexity and improve readablity
